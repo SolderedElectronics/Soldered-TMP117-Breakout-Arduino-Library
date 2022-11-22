@@ -9,22 +9,19 @@
  * @authors     @ soldered.com
  ***************************************************/
 
-#ifndef __SENSOR__
-#define __SENSOR__
+#ifndef __TMP117__
+#define __TMP117__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.hpp"
+#include "libs/Adafruit_TMP117.h"
 
-class Sensor : public EasyC
+class TMP117 : public Adafruit_TMP117
 {
   public:
-    Sensor(int _pin);
-
-  protected:
-    void initializeNative();
-
-  private:
-    int pin;
+    TMP117() : Adafruit_TMP117()
+    {
+      
+    }
 };
 
-#endif
+#endif //!_TMP117_

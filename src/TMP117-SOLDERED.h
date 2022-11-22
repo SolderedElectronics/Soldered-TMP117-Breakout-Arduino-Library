@@ -20,7 +20,6 @@ class TMP117 : public Adafruit_TMP117
   public:
     TMP117() : Adafruit_TMP117()
     {
-      
     }
 };
 

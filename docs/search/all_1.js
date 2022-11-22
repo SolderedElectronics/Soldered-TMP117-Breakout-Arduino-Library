@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]],
-  ['begindone_1',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]]
+  ['adafruit_5ftmp117_0',['Adafruit_TMP117',['../class_adafruit___t_m_p117.html',1,'Adafruit_TMP117'],['../class_adafruit___t_m_p117.html#ad96d3a1a34924f25486616774bb973fb',1,'Adafruit_TMP117::Adafruit_TMP117()']]],
+  ['adafruit_5ftmp117_2ecpp_1',['Adafruit_TMP117.cpp',['../_adafruit___t_m_p117_8cpp.html',1,'']]],
+  ['adafruit_5ftmp117_2eh_2',['Adafruit_TMP117.h',['../_adafruit___t_m_p117_8h.html',1,'']]],
+  ['alert_5fdrdy_5fflags_3',['alert_drdy_flags',['../class_adafruit___t_m_p117.html#a6db751fc4f406cceab27823bc4f9370d',1,'Adafruit_TMP117']]]
 ];

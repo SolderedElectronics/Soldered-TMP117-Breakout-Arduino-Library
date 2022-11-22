@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]]
+  ['_5finit_0',['_init',['../class_adafruit___t_m_p117.html#a5a4f503a63f6b1b3fb8de3344ce9bd4c',1,'Adafruit_TMP117']]]
 ];

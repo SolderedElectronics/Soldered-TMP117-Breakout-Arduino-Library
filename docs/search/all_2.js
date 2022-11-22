@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['defaultaddress_0',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]]
+  ['begin_0',['begin',['../class_adafruit___t_m_p117.html#a49da5df63876a246721d441bdb93d7ff',1,'Adafruit_TMP117']]]
 ];

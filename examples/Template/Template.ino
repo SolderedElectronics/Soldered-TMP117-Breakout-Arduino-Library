@@ -9,7 +9,7 @@
  * @authors     @ soldered.com
  ***************************************************/
 
-#include "Generic-easyC-SOLDERED.h"
+#include "TMP117-SOLDERED.h"
 
 void setup()
 {

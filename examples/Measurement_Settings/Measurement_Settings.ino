@@ -3,6 +3,7 @@
  *
  * @file        Measurement_Settings.ino
  * @brief       Demonstration of various custom settings for using the TMP117 sensor
+ *              For more info, visit solde.red/333175
  *
  *
  *
@@ -138,13 +139,12 @@ void loop()
     tempSensor.setOffset(offsetVal);
     Serial.print("Offset: ");
     Serial.print(offsetVal);
-    Serial.println("degrees C.");
-    delay(1000);
-
-    sensors_event_t temp;
-    tempSensor.getEvent(&temp); // Make measurement and store data
-    Serial.print("Temperature: ");
-    Serial.print(temp.temperature); // Print measurement
     Serial.println(" degrees C.");
     delay(1000);
+
+    sensors_event_t temp;       // For storing measurement data
+    tempSensor.getEvent(&temp); // Make measurement and store data
+    Serial.print("Measured temperature with offset and custom settings: ");
+    Serial.print(temp.temperature); // Print measurement
+    Serial.println(" degrees C.");
 }

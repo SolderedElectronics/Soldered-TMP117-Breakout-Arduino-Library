@@ -3,6 +3,7 @@
  *
  * @file        Read_Temperature.ino
  * @brief       Demonstration on how to read temperature on the TMP117 brekaout
+ *              For more info, visit solde.red/333175
  *
  *
  *

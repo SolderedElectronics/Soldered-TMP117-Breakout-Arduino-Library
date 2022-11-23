@@ -1,4 +1,4 @@
-# NAZIV PROIZVODA Arduino library
+# TMP117 Breakout Arduino library
 
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-TMP117-Breakout-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-TMP117-Breakout-Arduino-Library/actions/workflows/make_docs.yml)
 
@@ -14,11 +14,11 @@ OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in *NAZIV PROIZVODA* hardware repository.
+You can find hardware design for this board in TMP117 Breakout hardware repository.
 
 ### Documentation
 
-Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-Generic-Arduino-Library/).
+Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-TMP117-Breakout-Arduino-Library/).
 
 - Tutorial for using the NAZIV PROIZVODA board
 - Installing an Arduino library
@@ -27,7 +27,7 @@ Access Arduino library documentation [here](https://SolderedElectronics.github.i
 
 The library is compatible with board & microcontroller families shown in green below: 
 
-[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/compile_test.yml)
+[![Compile Sketches](http://github-actions.40ants.com/SolderedElectronics/Soldered-TMP117-Breakout-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/Soldered-TMP117-Breakout-Arduino-Library/actions/workflows/compile_test.yml)
 
 
 ### About Soldered
@@ -42,7 +42,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 
 ### Original source
 ​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle. 
+This library is possible thanks to original [Adafruit TMP117](https://github.com/adafruit/Adafruit_TMP117) library. Thank you, Adafruit. 
 
 
 ### Open-source license

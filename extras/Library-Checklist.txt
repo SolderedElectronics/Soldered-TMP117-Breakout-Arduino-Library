@@ -25,7 +25,7 @@
     | In every example add link to the board page using format solde.red/[sku]
     | Get board sku here:
         - https://docs.google.com/spreadsheets/d/1OgNTXLb2BICWH0ZpkS87TvWyUalTrakakhnibQFRWnQ/edit?usp=sharing
-❌ | Fill in README.md
+✅ | Fill in README.md
     | Be sure to change
         [![Compile Sketches](https://github.com/e-radionicacom/Generic-easyC/actions/workflows/compile_test.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/[repo name]/actions/workflows/compile_test.yml)
         [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Generic-easyC/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/[repo name]/actions/workflows/make_docs.yml)

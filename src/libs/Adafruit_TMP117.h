@@ -18,9 +18,9 @@
 #define _ADAFRUIT_TMP117_H
 
 #include "Arduino.h"
-#include <Adafruit_BusIO_Register.h>
-#include <Adafruit_I2CDevice.h>
-#include <Adafruit_Sensor.h>
+#include "Adafruit_BusIO_Register.h"
+#include "Adafruit_I2CDevice.h"
+#include "Adafruit_Sensor.h"
 #include <Wire.h>
 
 #define TMP117_I2CADDR_DEFAULT 0x48 ///< TMP117 default i2c address

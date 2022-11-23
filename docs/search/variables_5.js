@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['i2c_5fdev_0',['i2c_dev',['../class_adafruit___t_m_p117.html#ae940f4d85c99f78dfb3ccdb7f8901183',1,'Adafruit_TMP117']]]
+  ['g_0',['g',['../structsensors__color__t.html#ac91ecea980718cf134f60c497d2a0049',1,'sensors_color_t']]],
+  ['gyro_1',['gyro',['../structsensors__event__t.html#ad108ea8c3a18d02cfc674ba27e94a2c4',1,'sensors_event_t']]]
 ];

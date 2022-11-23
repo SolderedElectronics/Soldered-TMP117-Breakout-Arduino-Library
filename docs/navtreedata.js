@@ -52,7 +52,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_adafruit___bus_i_o___register_8cpp.html"
+"_adafruit___bus_i_o___register_8cpp.html",
+"structsensors__event__t.html#a6b06d35b17afbee79de7f45d9d71ed0b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['temp_5freg_0',['temp_reg',['../class_adafruit___t_m_p117.html#a07884251d70959ddff8ee28cbe068fe6',1,'Adafruit_TMP117']]]
+  ['light_0',['light',['../structsensors__event__t.html#adefd2ce2da44e4449ef7cadeaecc6cfd',1,'sensors_event_t']]],
+  ['low_1',['low',['../structtmp117__alerts__t.html#a180b3746e08fbdcf1213a4b60380f72a',1,'tmp117_alerts_t']]]
 ];

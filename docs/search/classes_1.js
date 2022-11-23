@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['tmp117_0',['TMP117',['../class_t_m_p117.html',1,'']]],
-  ['tmp117_5falerts_5ft_1',['tmp117_alerts_t',['../structtmp117__alerts__t.html',1,'']]]
+  ['sensor_5ft_0',['sensor_t',['../structsensor__t.html',1,'']]],
+  ['sensors_5fcolor_5ft_1',['sensors_color_t',['../structsensors__color__t.html',1,'']]],
+  ['sensors_5fevent_5ft_2',['sensors_event_t',['../structsensors__event__t.html',1,'']]],
+  ['sensors_5fvec_5ft_3',['sensors_vec_t',['../structsensors__vec__t.html',1,'']]]
 ];

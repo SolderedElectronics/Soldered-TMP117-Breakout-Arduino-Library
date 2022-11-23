@@ -1,10 +1,12 @@
 ##################################################
-# Syntax Coloring Map For Obstacle-Sensor-SOLDERED
+# Syntax Coloring Map For TMP117-SOLDERED
 ##################################################
 
 ##################################################
 # Datatypes (KEYWORD1)
 ##################################################
+
+TMP117 KEYWORD1
 
 ##################################################
 # Methods and Functions (KEYWORD2)

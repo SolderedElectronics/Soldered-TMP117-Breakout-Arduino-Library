@@ -44,7 +44,7 @@ PROJECT_NUMBER         = "1.0.0"
 # for a project that appears at the top of each page and should give viewer a
 # quick idea about the purpose of the project. Keep the description short.
 
-PROJECT_BRIEF          = "Library for using the TMP117 temperature sensor via EasyC"
+PROJECT_BRIEF          = "TMP117 is quick and simple way to read temperature in celsius and set high and low temperature alerts."
 
 # With the PROJECT_LOGO tag one can specify a logo or an icon that is included
 # in the documentation. The maximum height of the logo should not exceed 55

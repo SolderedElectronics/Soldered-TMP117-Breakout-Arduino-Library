@@ -3,6 +3,7 @@
  *
  * @file        TMP117-SOLDERED.h
  * @brief       Header file for TMP117 library.
+ *              For more info, visit solde.red/333175
  *
  *
  * @copyright GNU General Public License v3.0

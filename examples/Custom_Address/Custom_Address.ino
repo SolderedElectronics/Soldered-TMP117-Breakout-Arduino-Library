@@ -2,7 +2,8 @@
  **************************************************
  *
  * @file        Custom_Address.ino
- * @brief       Demonstration on how to use custom addressing on TMP117
+ * @brief       Demonstration on how to use custom addressing on TMP117.
+ *              For more info, visit solde.red/333175
  *
  *
  *
@@ -41,7 +42,7 @@ void setup()
 
 void loop()
 {
-    sensors_event_t temp;
+    sensors_event_t temp;       // For storing measurement data
     tempSensor.getEvent(&temp); // Make measurement and store data
     Serial.print("Temperature: ");
     Serial.print(temp.temperature); // Print measurement

@@ -3,6 +3,7 @@
  *
  * @file        TMP117-SOLDERED.cpp
  * @brief       Functions file for TMP117.
+ *              For more info, visit solde.red/333175
  *
  *
  * @copyright GNU General Public License v3.0

@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['readalertsdrdy_0',['readAlertsDRDY',['../class_adafruit___t_m_p117.html#aa3212896c9bbe3371a8d593c17f33845',1,'Adafruit_TMP117']]],
-  ['readme_2emd_1',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['reset_2',['reset',['../class_adafruit___t_m_p117.html#a53b5b8a0ccd9a206ae149dcdc3ccbf4c',1,'Adafruit_TMP117']]]
+  ['setaveragedsamplecount_0',['setAveragedSampleCount',['../class_adafruit___t_m_p117.html#af3fb9272c6521c44ee1c2fac2ce6c295',1,'Adafruit_TMP117']]],
+  ['sethighthreshold_1',['setHighThreshold',['../class_adafruit___t_m_p117.html#a6eee7d6273b5580c1e7e3aba77ef537f',1,'Adafruit_TMP117']]],
+  ['setlowthreshold_2',['setLowThreshold',['../class_adafruit___t_m_p117.html#acf6bbbbaaad3844dc68e17bf702ebac6',1,'Adafruit_TMP117']]],
+  ['setmeasurementmode_3',['setMeasurementMode',['../class_adafruit___t_m_p117.html#ab578501f30486c7a4fa1ede7595b6d99',1,'Adafruit_TMP117']]],
+  ['setoffset_4',['setOffset',['../class_adafruit___t_m_p117.html#ad88a7f4db3c5fdd2daf921812dcb1e3b',1,'Adafruit_TMP117']]],
+  ['setreaddelay_5',['setReadDelay',['../class_adafruit___t_m_p117.html#a0601d470b322ac25f00c6f8574ee37f8',1,'Adafruit_TMP117']]]
 ];

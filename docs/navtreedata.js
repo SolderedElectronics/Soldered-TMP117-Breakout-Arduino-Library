@@ -24,8 +24,8 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", [
+  [ "Soldered TMP117 Breakout Arduino Library", "index.html", [
+    [ "TMP117 Breakout Arduino library", "index.html", [
       [ "Have fun!", "index.html#autotoc_md8", null ]
     ] ],
     [ "Classes", "annotated.html", [

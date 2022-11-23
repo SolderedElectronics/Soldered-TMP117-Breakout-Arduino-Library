@@ -62,6 +62,8 @@ var NAVTREEINDEX0 =
 "class_adafruit___t_m_p117.html#af3fb9272c6521c44ee1c2fac2ce6c295":[1,0,0,17],
 "class_t_m_p117.html":[1,0,1],
 "class_t_m_p117.html#aa5efef7b1fb4472456a44f8b716c7b77":[1,0,1,0],
+"class_t_m_p117.html#aa657d0a28325bd467db9cc6024c1f3eb":[1,0,1,2],
+"class_t_m_p117.html#ad211a6c00b42dbaa8551938b8473792a":[1,0,1,1],
 "classes.html":[1,1],
 "dir_68267d1309a1af8e8297ef4c3efbcdba.html":[2,0,0],
 "dir_87a455bccb09a92130c26a11a880c98a.html":[2,0,0,0],

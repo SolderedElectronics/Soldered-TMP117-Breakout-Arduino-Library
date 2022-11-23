@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['unscaled_5ftemp_0',['unscaled_temp',['../class_adafruit___t_m_p117.html#a5d6415abe246ee74a49401a531cb7c1e',1,'Adafruit_TMP117']]]
+  ['temp_5freg_0',['temp_reg',['../class_adafruit___t_m_p117.html#a07884251d70959ddff8ee28cbe068fe6',1,'Adafruit_TMP117']]]
 ];

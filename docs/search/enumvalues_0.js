@@ -1,19 +1,4 @@
 var searchData=
 [
-  ['tmp117_5faverage_5f1x_0',['TMP117_AVERAGE_1X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5a25f630004d909d3f695b02d9935c3e71',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5faverage_5f32x_1',['TMP117_AVERAGE_32X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5a9537bdec1cd417dc0128b6d89e0821ee',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5faverage_5f64x_2',['TMP117_AVERAGE_64X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5acfe56b685ec3a04da6c562332311a9d7',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5faverage_5f8x_3',['TMP117_AVERAGE_8X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5ab97908cecfe2b3837d501815e17d4c40',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f0_5fms_4',['TMP117_DELAY_0_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa02aa54c0b040656d3422f5b0ce357fee',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f1000_5fms_5',['TMP117_DELAY_1000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa76749b188f1eb683f6bf23723bd9dc18',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f125_5fms_6',['TMP117_DELAY_125_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa46e4fa3c6f3cb14d1f8635d763da15cd',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f16000_5fms_7',['TMP117_DELAY_16000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa286341a00b93ba2ddfe6b5f1469477bc',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f250_5fms_8',['TMP117_DELAY_250_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aab7f1e083713d7b1bda5c92d9a5222944',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f4000_5fms_9',['TMP117_DELAY_4000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa909a033f080d2c7af330db8ffca1e047',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f500_5fms_10',['TMP117_DELAY_500_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa8660779f7fcc5e93003274ae7a6bb134',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5f8000_5fms_11',['TMP117_DELAY_8000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa9717eb087fda91466bde0c775c2b1117',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fmode_5fcontinuous_12',['TMP117_MODE_CONTINUOUS',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365fa9069be6aa57bcfb2e7b1f9427ef89c9d',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fmode_5fone_5fshot_13',['TMP117_MODE_ONE_SHOT',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365fa7041f870eccd7dac7ffcae48c9e9d7f8',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fmode_5fshutdown_14',['TMP117_MODE_SHUTDOWN',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365fafa1c2e29fbd91cfceaec0c8bc6a550b8',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5frate_5fone_5fshot_15',['TMP117_RATE_ONE_SHOT',['../_adafruit___t_m_p117_8h.html#a350c98abd87f94b11f5f2dd390788a79a190e0829854b7a4bd32fdbcefc97e447',1,'Adafruit_TMP117.h']]]
+  ['_5fspi_5fmode4_0',['_SPI_MODE4',['../_adafruit___s_p_i_device_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba192cd66dd34e781f9e6df2fb12408f22',1,'Adafruit_SPIDevice.h']]]
 ];

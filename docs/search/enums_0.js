@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['tmp117_5faverage_5fcount_5ft_0',['tmp117_average_count_t',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fdelay_5ft_1',['tmp117_delay_t',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840a',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5fmode_5ft_2',['tmp117_mode_t',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365f',1,'Adafruit_TMP117.h']]],
-  ['tmp117_5frate_5ft_3',['tmp117_rate_t',['../_adafruit___t_m_p117_8h.html#a350c98abd87f94b11f5f2dd390788a79',1,'Adafruit_TMP117.h']]]
+  ['_5fadafruit_5fbusio_5fspiregtype_0',['_Adafruit_BusIO_SPIRegType',['../_adafruit___bus_i_o___register_8h.html#aab8187a2a7855dbdafc14106289f7c52',1,'Adafruit_BusIO_Register.h']]],
+  ['_5fbitorder_1',['_BitOrder',['../_adafruit___s_p_i_device_8h.html#a7bc3597abe6f7bd321be6c1dda888db5',1,'_BitOrder():&#160;Adafruit_SPIDevice.h'],['../_adafruit___s_p_i_device_8h.html#a7bc3597abe6f7bd321be6c1dda888db5',1,'_BitOrder():&#160;Adafruit_SPIDevice.h']]]
 ];

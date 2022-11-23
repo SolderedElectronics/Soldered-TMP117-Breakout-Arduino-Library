@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['waitfordata_0',['waitForData',['../class_adafruit___t_m_p117.html#a10b55ad1928827ee2564b545f0c4328d',1,'Adafruit_TMP117']]]
+  ['print_0',['print',['../class_adafruit___bus_i_o___register.html#abc1e92469336a95e6ddf34bd7fd18a67',1,'Adafruit_BusIO_Register']]],
+  ['println_1',['println',['../class_adafruit___bus_i_o___register.html#aebb1d9dd6520ba1a20b3952c434d7a47',1,'Adafruit_BusIO_Register']]]
 ];

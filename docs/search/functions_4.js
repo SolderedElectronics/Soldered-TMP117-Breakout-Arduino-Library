@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['interruptsactivelow_0',['interruptsActiveLow',['../class_adafruit___t_m_p117.html#a4f860d351c77f53de35453c9e372d57e',1,'Adafruit_TMP117::interruptsActiveLow(bool active_low)'],['../class_adafruit___t_m_p117.html#ab5a0ae09efcb9cd4909bf4ad238e46fe',1,'Adafruit_TMP117::interruptsActiveLow(void)']]]
+  ['end_0',['end',['../class_adafruit___i2_c_device.html#afe9d8e8a154d29acaaeb1d00ddd8da08',1,'Adafruit_I2CDevice']]],
+  ['endtransaction_1',['endTransaction',['../class_adafruit___s_p_i_device.html#a65b517b7372df56322b807a08d067f8b',1,'Adafruit_SPIDevice']]],
+  ['endtransactionwithdeassertingcs_2',['endTransactionWithDeassertingCS',['../class_adafruit___s_p_i_device.html#ad9e42c259682a03e76afd33c66af9317',1,'Adafruit_SPIDevice']]]
 ];

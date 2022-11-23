@@ -42,6 +42,7 @@ var NAVTREE =
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
         [ "Enumerator", "globals_eval.html", null ]
       ] ]
@@ -51,7 +52,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_adafruit___t_m_p117_8cpp.html"
+"_adafruit___bus_i_o___register_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

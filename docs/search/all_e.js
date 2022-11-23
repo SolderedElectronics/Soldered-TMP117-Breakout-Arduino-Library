@@ -1,4 +1,31 @@
 var searchData=
 [
-  ['_7eadafruit_5ftmp117_0',['~Adafruit_TMP117',['../class_adafruit___t_m_p117.html#a154e94a0038c45b4a097813595110351',1,'Adafruit_TMP117']]]
+  ['temp_5freg_0',['temp_reg',['../class_adafruit___t_m_p117.html#a07884251d70959ddff8ee28cbe068fe6',1,'Adafruit_TMP117']]],
+  ['thermalertmodeenabled_1',['thermAlertModeEnabled',['../class_adafruit___t_m_p117.html#aa998c265199de967b74bca95ee0ea473',1,'Adafruit_TMP117::thermAlertModeEnabled(bool therm_enabled)'],['../class_adafruit___t_m_p117.html#aae65a6ce476c2b6201970f5c6af1a955',1,'Adafruit_TMP117::thermAlertModeEnabled(void)']]],
+  ['tmp117_2',['TMP117',['../class_t_m_p117.html',1,'TMP117'],['../class_t_m_p117.html#aa5efef7b1fb4472456a44f8b716c7b77',1,'TMP117::TMP117()']]],
+  ['tmp117_20breakout_20arduino_20library_3',['TMP117 Breakout Arduino library',['../index.html',1,'']]],
+  ['tmp117_2dsoldered_2ecpp_4',['TMP117-SOLDERED.cpp',['../_t_m_p117-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['tmp117_2dsoldered_2eh_5',['TMP117-SOLDERED.h',['../_t_m_p117-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
+  ['tmp117_5falerts_5ft_6',['tmp117_alerts_t',['../structtmp117__alerts__t.html',1,'']]],
+  ['tmp117_5faverage_5f1x_7',['TMP117_AVERAGE_1X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5a25f630004d909d3f695b02d9935c3e71',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5faverage_5f32x_8',['TMP117_AVERAGE_32X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5a9537bdec1cd417dc0128b6d89e0821ee',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5faverage_5f64x_9',['TMP117_AVERAGE_64X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5acfe56b685ec3a04da6c562332311a9d7',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5faverage_5f8x_10',['TMP117_AVERAGE_8X',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5ab97908cecfe2b3837d501815e17d4c40',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5faverage_5fcount_5ft_11',['tmp117_average_count_t',['../_adafruit___t_m_p117_8h.html#aa2b2e54f82283a3e646d6a38ff8a1cb5',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f0_5fms_12',['TMP117_DELAY_0_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa02aa54c0b040656d3422f5b0ce357fee',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f1000_5fms_13',['TMP117_DELAY_1000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa76749b188f1eb683f6bf23723bd9dc18',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f125_5fms_14',['TMP117_DELAY_125_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa46e4fa3c6f3cb14d1f8635d763da15cd',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f16000_5fms_15',['TMP117_DELAY_16000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa286341a00b93ba2ddfe6b5f1469477bc',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f250_5fms_16',['TMP117_DELAY_250_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aab7f1e083713d7b1bda5c92d9a5222944',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f4000_5fms_17',['TMP117_DELAY_4000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa909a033f080d2c7af330db8ffca1e047',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f500_5fms_18',['TMP117_DELAY_500_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa8660779f7fcc5e93003274ae7a6bb134',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5f8000_5fms_19',['TMP117_DELAY_8000_MS',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840aa9717eb087fda91466bde0c775c2b1117',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fdelay_5ft_20',['tmp117_delay_t',['../_adafruit___t_m_p117_8h.html#a7b1c385883c67e6350baa63df518840a',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fmode_5fcontinuous_21',['TMP117_MODE_CONTINUOUS',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365fa9069be6aa57bcfb2e7b1f9427ef89c9d',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fmode_5fone_5fshot_22',['TMP117_MODE_ONE_SHOT',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365fa7041f870eccd7dac7ffcae48c9e9d7f8',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fmode_5fshutdown_23',['TMP117_MODE_SHUTDOWN',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365fafa1c2e29fbd91cfceaec0c8bc6a550b8',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5fmode_5ft_24',['tmp117_mode_t',['../_adafruit___t_m_p117_8h.html#a618561508ed2bb2db50891082254365f',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5frate_5fone_5fshot_25',['TMP117_RATE_ONE_SHOT',['../_adafruit___t_m_p117_8h.html#a350c98abd87f94b11f5f2dd390788a79a190e0829854b7a4bd32fdbcefc97e447',1,'Adafruit_TMP117.h']]],
+  ['tmp117_5frate_5ft_26',['tmp117_rate_t',['../_adafruit___t_m_p117_8h.html#a350c98abd87f94b11f5f2dd390788a79',1,'Adafruit_TMP117.h']]],
+  ['transfer_27',['transfer',['../class_adafruit___s_p_i_device.html#a155f5efd84dbc240c987f4066265b840',1,'Adafruit_SPIDevice::transfer(uint8_t *buffer, size_t len)'],['../class_adafruit___s_p_i_device.html#ac60964386f37b2c498fc1b1540f61889',1,'Adafruit_SPIDevice::transfer(uint8_t send)']]]
 ];

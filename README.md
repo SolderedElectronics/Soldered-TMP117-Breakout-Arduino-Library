@@ -6,7 +6,10 @@
 | :---------------------------------------------------------------------------------------------: |
 | [TMP117 Breakout](https://www.solde.red/333175)                                                            |
 
-OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC). 
+The TMP117 breakout board by Soldered is a simple temperature sensor. It features easy reading of current temperature, setting high or low temperature alerts and several useful settings. It's compatible with [easyC](https://www.soldered.com/en/easyC).
+
+* I2C address: 0x49
+* Voltage: 3V
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)

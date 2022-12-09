@@ -1,10 +1,9 @@
 /**
  **************************************************
  *
- * @file        Alerts.ino
- * @brief       Demonstration of high and low temperature alerts on the TMP117 breakout sensor. In this example you can
- *              see how to set the temperature alerts and check periodically in code. For more info, visit
- *              solde.red/333175
+ * @file        Interrupt_Alerts.ino
+ * @brief       Demonstration of reading high/low temperature alerts on the TMP117 via interrupt. 
+ *              For more info visit solde.red/333175
  *
  *
  *
@@ -15,14 +14,18 @@
 
 TMP117 tempSensor; // Create sensor object
 
+// Important: connect to interrupt TODO todo
+
+volatile bool isTempAlert = false;
+
 void setup()
 {
     Serial.begin(115200);    // Begin serial communication for output
-    if (!tempSensor.begin()) // Sensor initialization, specify the sensor address here if not default
+    if (!tempSensor.begin(0x48)) // Sensor initialization, specify the sensor address here if not default
     {
-        Serial.println("Failed to find TMP117");
         while (true)
         {
+            Serial.println("Failed to find TMP117");
             delay(100);
         }
     }
@@ -30,13 +33,22 @@ void setup()
 
     // High temp and low temp alert are available
     tempSensor.setHighThreshold(30.0);
-    tempSensor.setLowThreshold(27.00);
+    tempSensor.setLowThreshold(24.00);
 
     // This function enables or disables THERM mode on the device
     // In THERM mode, the low temp alert limit can be used as a hysteresis value
     // In other words, the high temperature alert stays triggered until a temperature below the low threshold is
     // measured Disabled by default
     tempSensor.thermAlertModeEnabled(false);
+
+    pinMode(5, INPUT);
+    attachInterrupt(5,ISR_tempAlert,CHANGE);
+}
+
+void ISR_tempAlert()
+{
+    Serial.println("Temp alert!");
+    delay(100);
 }
 
 void loop()
@@ -47,31 +59,9 @@ void loop()
     // Note: Always read alerts before the temperature, as reading the temperature clears alerts
     tempSensor.getAlerts(&alerts); // Read alerts
     tempSensor.getEvent(&temp);    // Read temperature
-
-    Serial.print("Temperature: ");
+    Serial.print("Measured  ");
     Serial.print(temp.temperature); // Print measurement
     Serial.println(" degrees C.");
-
-    Serial.print("High temperature alert active:");
-    if (alerts.high) // Is true if the temperature is higher than the high threshold
-    {
-        Serial.println("True");
-    }
-    else
-    {
-        Serial.println("False");
-    }
-
-    Serial.print("Low temperature alert active:");
-    if (alerts.low) // Is true if the temperature is higher than the high threshold
-    {
-        Serial.println("True");
-    }
-    else
-    {
-        Serial.println("False");
-    }
-    Serial.println("");
 
     delay(1500);
 }

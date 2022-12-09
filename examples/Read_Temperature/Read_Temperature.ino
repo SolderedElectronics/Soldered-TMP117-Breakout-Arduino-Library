@@ -10,7 +10,7 @@
  * @authors     Robert Soric @ soldered.com
  ***************************************************/
 
-#include "TMP117-SOLDERED.h"
+#include "TMP117-SOLDERED.h" // Include sensor library
 
 TMP117 tempSensor; // Create sensor object
 
@@ -30,7 +30,7 @@ void setup()
 
 void loop()
 {
-    sensors_event_t temp;       // Create an empty sensors_event_t object, used to store data made from measurements
+    sensors_event_t temp;       // Create an empty sensors_event_t struct, used to store data made from measurements
     tempSensor.getEvent(&temp); // Make measurement in degrees celsius and store data
     Serial.print("Temperature: ");
     Serial.print(temp.temperature); // Print the measurement

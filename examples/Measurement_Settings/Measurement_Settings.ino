@@ -2,17 +2,21 @@
  **************************************************
  *
  * @file        Measurement_Settings.ino
- * @brief       Demonstration of various custom settings for using the TMP117 sensor
- *              For more info, visit solde.red/333175
+ * @brief       Demonstration of various custom settings for using the TMP117 sensor.
+ *              Here you can see how to set the measurement mode, add a temperature offset, set the average sample count
+ *              and a minimum delay between temperature reads. For more info, visit solde.red/333175
  *
  *
  *
  * @authors     Robert Soric @ soldered.com
  ***************************************************/
 
-#include "TMP117-SOLDERED.h"
+#include "TMP117-SOLDERED.h" // Include sensor library
 
-TMP117 tempSensor;
+TMP117 tempSensor; // Create sensor object
+
+// Set an arbitrary temperature offset value
+// This value can be positive or negative and will be summed with the final temperature reading
 float offsetVal = 10.52;
 
 void setup()

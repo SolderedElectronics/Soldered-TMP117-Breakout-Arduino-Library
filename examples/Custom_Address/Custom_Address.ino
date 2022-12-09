@@ -22,21 +22,23 @@
  * For more info, check TMP117 datasheet Table 7-2.
  */
 
-#include "TMP117-SOLDERED.h"
+#include "TMP117-SOLDERED.h" // Include sensor library
 
-TMP117 tempSensor;
+TMP117 tempSensor; // Create sensor object
 
 void setup()
 {
     Serial.begin(115200);        // Begin serial communication for output
+    delay(1000);
     if (!tempSensor.begin(0x49)) // Sensor initialization, specify the sensor address here if not default
     {
-        Serial.println("Failed to find TMP117");
         while (true)
         {
-            delay(100);
+            Serial.println("Failed to find TMP117");
+            delay(1000);
         }
     }
+    delay(1000);
     Serial.println("TMP117 found!");
 }
 

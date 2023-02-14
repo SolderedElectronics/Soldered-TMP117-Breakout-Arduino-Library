@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "Soldered TMP117 Breakout Arduino Library", "index.html", [
-    [ "TMP117 Breakout Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "TMP117 Breakout Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

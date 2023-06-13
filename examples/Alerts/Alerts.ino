@@ -13,6 +13,19 @@
 
 #include "TMP117-SOLDERED.h" // Include sensor library
 
+/**
+ * Connecting diagram:
+ *
+ * TMP117                       Dasduino Core / Connect / ConnectPlus
+ * VCC------------------------->VCC
+ * GND------------------------->GND
+ * SCL------------------------->A5/IO5/IO22
+ * SDA------------------------->A4/IO4/IO21
+ * 
+ * Or, simply use an easyC cable!
+ * 
+ */
+
 TMP117 tempSensor; // Create sensor object
 
 void setup()

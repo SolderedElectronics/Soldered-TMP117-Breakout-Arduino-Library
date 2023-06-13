@@ -11,6 +11,21 @@
  ***************************************************/
 
 /**
+ * Connecting diagram:
+ *
+ * TMP117                       Dasduino Core / Connect / ConnectPlus
+ * VCC------------------------->VCC
+ * GND------------------------->GND
+ * SCL------------------------->A5/IO5/IO22
+ * SDA------------------------->A4/IO4/IO21
+ * 
+ * Or, simply use an easyC cable!
+ * 
+ */
+
+#include "TMP117-SOLDERED.h" // Include sensor library
+
+/**
  * The TMP117 breakout board can be connected to 4 different addresses via I2C.
  * This means you can use 4 TMP117 boards in the same project, but each one has to have a unique address.
  * To change the address, short only one of the jumper pins on the board:
@@ -21,8 +36,6 @@
  *
  * For more info, check TMP117 datasheet Table 7-2.
  */
-
-#include "TMP117-SOLDERED.h" // Include sensor library
 
 TMP117 tempSensor; // Create sensor object
 

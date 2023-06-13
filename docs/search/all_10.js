@@ -31,5 +31,5 @@ var searchData=
   ['tmp117_5frate_5ft_28',['tmp117_rate_t',['../_adafruit___t_m_p117_8h.html#a350c98abd87f94b11f5f2dd390788a79',1,'Adafruit_TMP117.h']]],
   ['transfer_29',['transfer',['../class_adafruit___s_p_i_device.html#a155f5efd84dbc240c987f4066265b840',1,'Adafruit_SPIDevice::transfer(uint8_t *buffer, size_t len)'],['../class_adafruit___s_p_i_device.html#ac60964386f37b2c498fc1b1540f61889',1,'Adafruit_SPIDevice::transfer(uint8_t send)']]],
   ['tvoc_30',['tvoc',['../structsensors__event__t.html#a6ce5ca5bb4ab3f8a6861fc965a154599',1,'sensors_event_t']]],
-  ['type_31',['type',['../structsensor__t.html#ae1d59df64438923d3bd95f2416c32203',1,'sensor_t::type()'],['../structsensors__event__t.html#a58401dd7f3400d9eb96c71b8fba9f8e8',1,'sensors_event_t::type()']]]
+  ['type_31',['type',['../structsensor__t.html#ae1d59df64438923d3bd95f2416c32203',1,'sensor_t::type'],['../structsensors__event__t.html#a58401dd7f3400d9eb96c71b8fba9f8e8',1,'sensors_event_t::type']]]
 ];
